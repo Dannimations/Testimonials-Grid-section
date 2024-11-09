@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Figtree:ital,wght@0,300..900;1,300..900&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Overpass:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Young+Serif&display=swap');
+body{
+    background-color: #edf2f8;
+    font-family: Barlow Semi Condensed;
+}
+#mainContainer{
+    /* border: 5px solid; */
+    padding: 8% 8%;
+}
+p{
+    font-size: 13px;
+}
+#purple{
+    background-color: #733fc8;
+    padding: 15px 25px;
+    border-radius: 10px;
+    width: 40%;
+    margin-top: 0px;
+}
+#purple h3{
+    color: #ffedff;
+}
+#purple p{
+    color: #ae8ae4;
+}
+#grey{
+    background-color: #49556b;
+    padding: 22px 25px;
+    width: 50%;
+    border-radius: 10px;
+    width: 20%;
+    margin-left: 530px;
+    margin-top: -278px;
+}
+#grey h3{
+    color: #f8ffff;
+}
+#grey p{
+    color: #bcc6d2;
+}
+#shortWhite{
+    background-color: white;
+    width: 16%;
+    padding: 22px 25px;
+    border-radius: 10px;
+    padding-right: 40px;
+    box-shadow: 10px 10px 10px #d3d8de;
+}
+#shortWhite p{
+    color: #8a8d92;
+}
+#shortWhite h3{
+    color: #404853;
+}
+#darkBlue{
+    background-color: #18202d;
+    padding: 22px 25px;
+    border-radius: 10px;
+    margin-left: 24%;
+    margin-top: -275px;
+    width: 43.5%;
+}
+#darkBlue h3{
+    color: #f0f4ff;
+}
+#darkBlue p{
+    color: #bdc3cf;
+}
+#longWhite{
+    width: 18%;
+    background-color: white;
+    padding: 22px 30px;
+    border-radius: 10px;
+    margin-left: 74%;
+    margin-top: -562px;
+    box-shadow: 10px 10px 10px #d3d8de;
+}
+#longWhite p{
+    color: #afb3b6;
+}
+#longWhite h3{
+    color: #525463;
+}
